@@ -1,0 +1,27 @@
+body {
+    background-color:rgba(255,200,50,255);  
+    margin:100;
+}
+
+#grid_01{
+    stroke-width:0.7px;
+    stroke:red;   
+}
+
+#grid_02{
+    stroke:rgba(0,255,255,0.5);
+    stroke-width:3px;
+}
+
+#grid_01 #first{
+    stroke-width:10px;
+    stroke:rgba(255,0,0,0.3);
+}
+
+#A{
+    stroke:rgba(0,0,255,1);
+}
+
+#B{
+    stroke:rgba(0,0,255,1);
+}

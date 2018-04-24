@@ -1,0 +1,9 @@
+body {
+    background-color: white;
+    margin:10;
+}
+
+#grid{
+    stroke:rgba(255,0,0,0.2);
+    stroke-width:0.5px;
+}
